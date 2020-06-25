@@ -1,0 +1,10 @@
+{
+    "themes": {
+        "darkTheme": "Mint-Y-Darker",
+        "lightTheme": "Mint-Y"
+    },
+    "times": {
+        "darkThemeSwitchTime": "2200",
+        "lightThemeSwitchTime": "0600"
+    }
+}
